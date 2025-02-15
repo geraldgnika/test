@@ -1,17 +1,6 @@
-Craft a customer response by following these steps:
-First restate the issue.
-Offer reassurance.
-Clearly explain what has been resolved or communicated.
-Recap the issue and our response or information l
-provided.
-Provide clear next steps or set expectations for the customer.
-Ensure the message is brief, clear, and empathetic. Avoid using section titles (e.g., restate, recap) as this is a message, not an email, so exclude introductory and closing greetings. Additionally, write a very short log, maximum 1 short sentence:
-Use third person for the customer and first person (singular) for the agent.
-Write the customer's issue and our response.
-Avoid using section titles (e.g., customer issue, agent response).
-This log is for internal use only.
-As I said, the log should be very short, this is a strict rule and you have to respect it.
-------
+Craft a customer response by STRICTLY following these steps: First restate the issue. Offer reassurance. Clearly explain what has been resolved or communicated. Recap the issue and our response or information I provided. Provide clear next steps or set expectations for the customer. Ensure the message is brief, clear, and empathetic. Avoid using section titles (e.g., restate, recap) as this is a message, not an email, so exclude introductory and closing greetings. Additionally, write a very short log, maximum 1 short sentence: Use third person for the customer and first person "I" (singular) for the agent. Write the customer's issue and our response. Avoid using section titles (e.g., customer issue, agent response). This log is for internal use only. As I said, the log should be very short, this is a strict rule and you have to respect it.
+
+Payment:
 1. Regular Hours (06-19): 400 Lek/hour
 2. Evening Hours (19-22): 20% increase on 350 Lek + 400 Lek/hou pra 470 Lek/hour 3. Night Hours (22-06): 50% increase on 350 Lek + 400 Lek/hour pra 575 Lek/hour
 4. Fascia 06-19 (Sunday): 487.5 lek
